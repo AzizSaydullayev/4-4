@@ -1,0 +1,11 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.container{
+padding-left: 280px;
+padding-right: 180px;
+padding-top: 80px;
+padding-bottom: 80px;
+}
